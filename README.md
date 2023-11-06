@@ -33,6 +33,4 @@ For model building, we followed these steps:
 
 ---
 
-**Author**: [Your Name]
-**Date**: [Current Date]
-**GitHub Repository**: [Link to Your Repository]
+Connect Through LinkedIn For Queries !!!
