@@ -2,7 +2,7 @@
 
   We are creating a classification model aimed at predicting which clients are more likely to subscribe to term deposits. This model will analyze client data and behavior to assess the probability of them opting for term deposits. By leveraging various features and machine learning techniques, we intend to provide insights into the client base, aiding marketing and client engagement strategies. This predictive tool will enable the institution to allocate resources effectively, tailor marketing campaigns, and enhance customer relationships. Ultimately, it aims to optimize term deposit subscription rates, improving the institution's financial performance and customer satisfaction.
 
-# Main Features Of Project :
+# Main Features of Project :
 
 ## Data Preparation
 
